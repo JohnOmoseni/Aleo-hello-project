@@ -1,0 +1,12 @@
+// The program input for hello/src/main.leo
+[main]
+public a: u32 = 5u32;
+b: u32 = 2u32;
+
+[test]
+public x: u32 = 10u32;
+public y: u32 = 5u32;
+
+[best]
+public x: u64 = 10u64;
+y: u64 = 5u64;
